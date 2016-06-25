@@ -1,7 +1,8 @@
-git add "xxx.xxx"
-git commit -m "xxxx.xxxx"
+git add xxx.xxx
+git commit -m "xxxx"
 git log
 git log --pretty=oneline
 cat "xxx.xx"
 git status
 git diff "xxx.xxx"
+git checkout --xxx.xxx
