@@ -7,3 +7,5 @@ git status
 git diff "xxx.xxx"
 git checkout --xxx.xxx
 git reset HEAD file
+rm xxx.xxx  & git commit 
+git rm xxx.xxx & git commit & git checkout xxx.xx
